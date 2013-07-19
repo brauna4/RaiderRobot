@@ -1,0 +1,4 @@
+
+Usage:
+
+sudo ./bin/person_follower /dev/tty8100
